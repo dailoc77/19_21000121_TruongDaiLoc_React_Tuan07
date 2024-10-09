@@ -1,5 +1,5 @@
-# ![Logo](./assets/logo.png) 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 40 - 21005711 - Mai Quốc Trưởng - APICAFE</h1>
+
+<h1> 19 - 21000121 - Trương Đại Lộc  - APICAFE</h1>
 
 > **Bài tập 7 React Lập Trình Thiết Bị Di Động**
 <h4>Sử dụng những công nghệ sau:</h4>
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Mục Lục
+## Mục Lục
 
 - [Giới Thiệu](#giới-thiệu)
 - [Yêu Cầu](#yêu-cầu)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🎉 Giới Thiệu
+## Giới Thiệu
 
 Dự án **Order app** là một ứng dụng đặt hàng được phát triển bằng **React Native**. Ứng dụng cho phép người dùng thêm, xóa, và điều chỉnh số lượng đơn hàng trong giỏ hàng và thực hiện thanh toán.
 
@@ -37,7 +37,7 @@ Dự án **Order app** là một ứng dụng đặt hàng được phát triể
 
 ---
 
-## 📌 Yêu Cầu
+## Yêu Cầu
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công cụ sau:
 
@@ -98,7 +98,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
 
 ---
 
-## 🌐 API
+## API
 
 Dự án có thể sử dụng **JSON Server** hoặc **MockAPI** để quản lý dữ liệu sản phẩm và giỏ hàng.
 
@@ -125,14 +125,14 @@ Dự án có thể sử dụng **JSON Server** hoặc **MockAPI** để quản l
 
 ---
 
-## 🚀 Chạy Ứng Dụng
+##  Chạy Ứng Dụng
 
 1. Sử dụng ứng dụng **Expo** (có sẵn trên iOS/Android) để quét mã QR hiển thị trên terminal hoặc trình duyệt.
 2. Hoặc sử dụng trình giả lập/emulator để chạy ứng dụng.
 
 ---
 
-## 🗂️ Cấu Trúc Dự Án
+##  Cấu Trúc Dự Án
 
 Dự án tuân theo cấu trúc tiêu chuẩn của **React Native**. Một số thư mục và file quan trọng:
 
@@ -150,7 +150,7 @@ Dự án tuân theo cấu trúc tiêu chuẩn của **React Native**. Một số
 
 ---
 
-## 🔄 Modals
+##  Modals
 
 Ứng dụng sử dụng nhiều modal để nâng cao trải nghiệm người dùng:
 
@@ -159,14 +159,6 @@ Dự án tuân theo cấu trúc tiêu chuẩn của **React Native**. Một số
 - **Thanh Toán Thành Công**: Xác nhận thanh toán thành công và làm rỗng giỏ hàng.
 - **Giỏ Hàng Trống**: Thông báo khi người dùng cố gắng thanh toán mà giỏ hàng trống.
 
----
-
-## 📧 Liên Hệ
-
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ:
-
-- **Email**: maiqtruong2403@gmail.com or nguyennthanhtung0900@gmail.com
-- **GitHub**: [MaiQuocTruong](https://github.com/MaiQuocTruong)
 
 ---
 
