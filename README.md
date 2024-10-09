@@ -58,7 +58,6 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     ```bash
     npm -v
     ```
-  ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png)
   
 - **Expo CLI**: Cài đặt Expo CLI toàn cục bằng lệnh:
 
@@ -66,11 +65,9 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     npm install -g expo-cli
     ```
 
-  ![Expo CLI](https://images.viblo.asia/full/7321932b-aeae-41c1-9978-89d4e9526472.png)
-
 ---
 
-## 🛠️ Cài Đặt
+## Cài Đặt
 
 1. Clone repository này:
 
@@ -142,7 +139,7 @@ Dự án tuân theo cấu trúc tiêu chuẩn của **React Native**. Một số
 
 ---
 
-## 🛒 Sử Dụng
+## Sử Dụng
 
 1. **Thêm Sản Phẩm vào Giỏ Hàng**: Người dùng có thể thêm sản phẩm từ trang liệt kê sản phẩm (cần tích hợp riêng).
 2. **Điều Chỉnh Số Lượng Sản Phẩm**: Khi đã có sản phẩm trong giỏ, người dùng có thể thay đổi số lượng hoặc xóa sản phẩm khỏi giỏ.
